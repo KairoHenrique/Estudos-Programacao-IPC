@@ -74,6 +74,5 @@ gcc -std=c11 -Wall -Wextra -o programa *.c
 ---
 ## Autor
 
-Feito por Kairo Henrique Ferreira Martins
-Estudante de Engenharia de Computação
-Professor: Eduardo Habib Bechelane Maia
+- Feito por Kairo Henrique Ferreira Martins
+- Professor: Eduardo Habib Bechelane Maia
